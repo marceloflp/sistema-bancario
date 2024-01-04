@@ -1,6 +1,4 @@
-# sistema-bancario
-
-# Banco README
+# Sistema Bancário
 
 Este repositório contém uma implementação simples de um sistema bancário em Java. O código inclui três classes principais: `Banco`, `Conta`, `ContaCorrente`, e `ContaPoupanca`. O programa principal está na classe `Main`. A seguir, uma descrição das principais funcionalidades e estrutura do código.
 
