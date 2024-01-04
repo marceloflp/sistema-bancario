@@ -41,7 +41,7 @@ Este repositório contém uma implementação simples de um sistema bancário em
 1. Clone o repositório para sua máquina local:
 
    ```
-   git clone https://github.com/seu-usuario/sistema-bancario.git
+   git clone https://github.com/marceloflp/sistema-bancario.git
    ```
 
 2. Abra o projeto em seu ambiente de desenvolvimento Java preferido.
